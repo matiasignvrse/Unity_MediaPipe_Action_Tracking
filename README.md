@@ -42,7 +42,7 @@ The system comprises two main components:
 
 ```bash
 git clone https://github.com/skill-diver/Unity_MediaPipe_Action_Tracking.git
-
+```
 
 Import Unity directory in Unity.
 
@@ -51,7 +51,7 @@ Navigate to the Python directory and start the tracking script:
 ```bash
 cd Python
 python main.py
-
+```
 Run the Unity Scene
 Open the scene in Unity.
 Click the Play button in Unity to start the simulation.
