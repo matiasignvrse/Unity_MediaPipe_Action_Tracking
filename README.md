@@ -38,7 +38,7 @@ The system comprises two main components:
 - **Unity 2021.3 LTS or later**
 - **Webcam** for pose detection
 
-### Clone the Repository
+### How to use
 
 ```bash
 git clone https://github.com/skill-diver/Unity_MediaPipe_Action_Tracking.git
