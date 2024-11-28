@@ -41,5 +41,20 @@ The system comprises two main components:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/pose-tracking-avatar.git
-cd pose-tracking-avatar
+git clone https://github.com/skill-diver/Unity_MediaPipe_Action_Tracking.git
+
+
+Import Unity directory in Unity.
+
+Navigate to the Python directory and start the tracking script:
+
+```bash
+cd Python
+python main.py
+
+Run the Unity Scene
+Open the scene in Unity.
+Click the Play button in Unity to start the simulation.
+The character in Unity should now move in real-time, mirroring your movements captured by the webcam.
+
+
