@@ -1,4 +1,4 @@
-![Image 1](./images/characters.png)
+![Image 1](./images/character.png)
 
 # Real-Time Pose Tracking and Avatar Animation
 
